@@ -11,5 +11,7 @@
     <input type="submit" value="提交"/>
 </form>
 
+<a href="/xiazai">下载</a>
+
 </body>
 </html>
